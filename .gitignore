@@ -1,0 +1,6 @@
+TeleQnA
+unsloth_compiled_cache
+grpo_trainer_lora_model
+.DS_Store
+Unsloth/outputs_example/*
+Unsloth/data/*
